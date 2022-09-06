@@ -1,0 +1,18 @@
+git commit -am "message"  // add and commit both in one command
+
+git log --oneline --decorate --graph --all
+
+gco branch_name
+
+git merge branch_name // merges two branch 
+
+git reset  // resets history yptill a particular commit
+
+git revert // revert a particular commit;
+
+
+git stash // 
+git stash list  
+git stash pop  //
+
+git cherry-pick commit-hash //
